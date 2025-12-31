@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/chandru-k-67b2a8329/" target="_blank">
+    <img src="https://raw.githubusercontent.com/chandruk3/chandruk3/main/profile.jpeg"
+         width="160"
+         height="160"
+         alt="Chandru K" />
+  </a>
+</p>
+
 <h1 align="center">
   Hi 👋, I'm 
   <a href="https://www.linkedin.com/in/chandru-k-67b2a8329/" target="_blank">
@@ -36,7 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
 </p>
 
 ---
@@ -55,7 +65,8 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55"/>
 </p>
 
 ---
@@ -97,3 +108,4 @@
 - 💻 GitHub: https://github.com/chandruk3  
 - 🧠 LeetCode: https://leetcode.com/u/Chandruk26  
 - 💼 LinkedIn: https://www.linkedin.com/in/chandru-k-67b2a8329/  
+
