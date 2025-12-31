@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/chandru-k-67b2a8329/" target="_blank">
-    <img src="https://raw.githubusercontent.com/chandruk3/chandruk3/main/profile.jpg"
-         width="160"
-         height="160"
-         alt="Chandru K" />
-  </a>
-</p>
 
 <h1 align="center">
   Hi 👋, I'm 
