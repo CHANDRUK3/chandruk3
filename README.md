@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/chandru-k-67b2a8329/" target="_blank">
-    <img src="https://raw.githubusercontent.com/chandruk3/chandruk3/main/profile.jpeg"
+    <img src="https://raw.githubusercontent.com/chandruk3/chandruk3/main/profile.jpg"
          width="160"
          height="160"
          alt="Chandru K" />
@@ -108,4 +108,3 @@
 - 💻 GitHub: https://github.com/chandruk3  
 - 🧠 LeetCode: https://leetcode.com/u/Chandruk26  
 - 💼 LinkedIn: https://www.linkedin.com/in/chandru-k-67b2a8329/  
-
